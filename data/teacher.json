@@ -1,0 +1,50 @@
+{
+  "profession": "Teacher",
+  "answers": [
+    {
+      "id": 1,
+      "category": "Classroom Management",
+      "question": "Tell me about a time you had to manage a disruptive class or a disruptive student.",
+      "situation": "In my fourth-period class of 28 students, one boy regularly called out answers, made jokes and distracted nearby peers. By the third week, other students were starting to copy him, and the lessons were losing time.",
+      "task": "I needed to restore a focused atmosphere without humiliating him or removing him from learning.",
+      "action": "I first spoke with him privately in the hallway and asked what was going on. He admitted he got bored when he finished early. I thanked him for being honest and agreed on a quiet signal that I would use instead of calling him out. I gave him extension problems and a role as a table helper during group work. For the whole class, I posted three clear expectations and practised them for a few minutes. I praised on-task behavior specifically and contacted his family with a positive note after a good week, before raising any concern.",
+      "result": "Within two weeks, the interruptions dropped sharply and the class settled into a steady rhythm. He began finishing the extension tasks and asking thoughtful questions. His mother replied that he was talking about school at home."
+    },
+    {
+      "id": 6,
+      "category": "Parents and Families",
+      "question": "Tell me about a time you handled a difficult conversation with a parent.",
+      "situation": "A parent emailed me upset about a low grade on her son's research project. She said the rubric was unfair and that I had not given clear instructions.",
+      "task": "I wanted to listen, explain the grading honestly and work toward a plan that supported her son.",
+      "action": "I replied promptly and invited her to a meeting rather than debating by email. Before the meeting, I gathered the rubric, the assignment sheet and her son's work. I began by thanking her for coming and asked her to tell me her concerns. I listened without interrupting, then walked through the rubric, pointing to where points were lost. I acknowledged that one instruction could have been clearer and said I would improve it. We agreed her son could revise the project for partial credit and meet with me twice for feedback. I summarised the plan in a follow-up email.",
+      "result": "She left calmer and thanked me for listening. Her son improved his score by two grade levels and became more confident. I clarified the assignment sheet for future classes."
+    },
+    {
+      "id": 11,
+      "category": "Differentiation and Inclusion",
+      "question": "Give an example of how you differentiated instruction for a class with varied abilities.",
+      "situation": "My sixth-grade reading class included students reading two years below grade level, students on grade level and a few reading well above it. A single class novel left some bored and others lost.",
+      "task": "I needed to keep everyone learning the same core skills while meeting them at their levels.",
+      "action": "I started by using a short reading assessment and my observations to form flexible groups. All students worked on the same standard, finding the main idea and supporting evidence, but with different texts at three levels on the same theme. I met with each group in rotation for small-group instruction while others did independent or partner tasks. I gave sentence starters and a vocabulary list to students who needed them and offered open-ended questions for those ready for more. I changed the groups every two to three weeks based on new data so no one felt labeled.",
+      "result": "Most students improved on the end-of-unit assessment, and the lowest group made the biggest gains in confidence. Students said they liked choosing from a few text options. I now plan with three entry points from the start."
+    },
+    {
+      "id": 16,
+      "category": "Data and Assessment",
+      "question": "Tell me about a time you used assessment data to change your teaching.",
+      "situation": "After a fifth-grade unit on fractions, I gave a short quiz. Nearly half of the 26 students missed questions on adding fractions with unlike denominators.",
+      "task": "I needed to find out why and re-teach the idea before moving on.",
+      "action": "I sorted the quizzes into error types. Some students did not find a common denominator, and others added the denominators directly. I decided the problem was conceptual, not careless. The next day, I retaught the idea using fraction strips and drawings so students could see why denominators must match. I divided the class into two groups: one practised with my guidance and the other worked in pairs on a task. I gave a new three-question check after two days and used it to regroup. I also changed how I introduced the topic for future classes by starting with visual models.",
+      "result": "On the second check, most students answered correctly, and the group that struggled most had improved noticeably. The next unit moved smoothly. I now plan a short check midway through each unit so I can respond sooner."
+    },
+    {
+      "id": 21,
+      "category": "Collaboration and Conflict",
+      "question": "Tell me about a time you disagreed with a colleague and how you handled it.",
+      "situation": "A teammate on my grade-level team and I disagreed about homework. She wanted nightly worksheets, while I thought shorter, more purposeful practice would be better for our students.",
+      "task": "I wanted to reach a decision that worked for the team and for students without damaging our relationship.",
+      "action": "I asked to talk privately and first asked her to explain why homework mattered to her. She wanted consistency and parents expected it. I shared my concern that some students spent hours on repetitive work. Instead of arguing, I suggested a trial: for four weeks, we would use a shorter set of mixed problems and compare completion and quiz results. We agreed on the measures and on a date to review. I also offered to create the materials. When we met, we looked at the data together and discussed what we saw.",
+      "result": "Completion rates were higher with the shorter assignments and quiz results were similar. She agreed to adopt a hybrid approach. Our relationship was stronger afterward because we had decided together."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "profession": "Registered Nurse",
+  "answers": [
+    {
+      "id": 1,
+      "category": "Patient Safety",
+      "question": "Tell me about a time you noticed a patient's condition starting to deteriorate.",
+      "situation": "On a busy medical-surgical unit, I was caring for a post-operative patient who had been stable all morning. Around mid-afternoon, I noticed that he was more drowsy than usual and his breathing seemed slightly faster.",
+      "task": "I needed to find out whether this was a real change and make sure the right people knew quickly, rather than waiting for the next scheduled set of vitals.",
+      "action": "I took a second full set of vital signs right away and compared them with the morning trend. His heart rate was up, his blood pressure was lower and his oxygen reading had dipped. I stayed with him, raised the head of the bed, and called the rapid response team using the structured SBAR format so the message was short and clear. While waiting, I gathered his chart, recent medication list and laboratory results so the team could review them immediately. I also told the charge nurse so my other patients could be covered.",
+      "result": "The team arrived within minutes, ordered further tests and moved him to a higher level of care before he became critically unwell. He recovered well. My manager later reminded the unit that acting on a gut feeling and documenting the trend is always appropriate."
+    },
+    {
+      "id": 6,
+      "category": "Teamwork and Handoffs",
+      "question": "Describe a time a poor handoff caused a problem and what you did about it.",
+      "situation": "At the start of my shift, I received a handoff for a patient that did not mention a pending blood test result. Later I found that the result was abnormal and had come back near the end of the previous shift.",
+      "task": "I had to act on the abnormal result and then help prevent the same gap from happening again.",
+      "action": "I contacted the provider right away with the result and the patient's current status, and followed the orders that came back. I then called the nurse who had left, not to criticise, but to understand what happened. She explained that the result arrived as she was leaving and she had not been able to update her notes. I suggested to our charge nurse that we add a line for pending tests to our handoff template. I drafted the wording and shared it at the next staff meeting.",
+      "result": "The patient was treated promptly and did well. The team adopted the new handoff line, and over the following weeks several colleagues told me that it helped them catch outstanding results at shift change."
+    },
+    {
+      "id": 11,
+      "category": "Conflict",
+      "question": "Tell me about a time you disagreed with a physician about a patient's plan of care.",
+      "situation": "A physician ordered a medication for my patient, but I noticed that the patient's kidney function results had worsened that morning and the dose seemed too high for those values.",
+      "task": "I had to raise my concern clearly and respectfully, without delaying care and without overstepping my role.",
+      "action": "I held the dose and paged the physician. I introduced the question using SBAR: I described the patient's condition, the new lab values, my worry about the dose, and asked whether he wanted to reconsider. He was busy and a little curt at first, so I stayed calm and repeated the specific lab numbers. I also offered to call the pharmacist to review the dose together. He agreed to that call. The pharmacist supported a lower dose, and the physician changed the order. I documented the conversation and the revised order.",
+      "result": "The patient received a dose that fit his kidney function and had no complications. The physician later thanked me for flagging it and has been receptive to my calls since. I learned that sticking to facts keeps the conversation professional."
+    },
+    {
+      "id": 16,
+      "category": "Pressure and Prioritising",
+      "question": "Tell me about a time you had to prioritise care for several patients at once with limited staff.",
+      "situation": "On a shift with two nurses out sick, I had six patients: one with new chest pain, one due for a scheduled dressing change, one waiting for discharge teaching and three needing routine medications.",
+      "task": "I needed to decide who required attention first and make sure no one was left unsafe.",
+      "action": "I went to the patient with chest pain first, took vital signs, notified the physician and arranged for an electrocardiogram. While waiting, I asked the charge nurse for support and an aide to help with basic needs. I then gave time-critical medications to the other patients and told the discharge patient honestly that teaching would be delayed, while giving him written materials. I rescheduled the dressing change for later in the shift. I kept brief notes of what I had delegated and returned to each patient at intervals so nothing slipped.",
+      "result": "The chest pain patient was evaluated promptly and moved to a monitored bed. The other patients received their care safely, and the discharge happened that afternoon. The charge nurse thanked me for asking for help early."
+    },
+    {
+      "id": 21,
+      "category": "Mistakes and Learning",
+      "question": "Tell me about a mistake you made at work and what you learned from it.",
+      "situation": "Early in my career, I forgot to chart a medication I had given to a patient. Later, another nurse almost gave a second dose because the record showed it was still due.",
+      "task": "I needed to stop a possible double dose, tell the right people what had happened and fix the gap in my practice.",
+      "action": "The other nurse paused and asked me before giving it. I confirmed immediately that I had given the dose and corrected the record with a late entry showing the actual time. I told the charge nurse and my manager and filed an incident report that stated what happened plainly. I then traced why it happened: I had been interrupted during the task. From then on, I documented each medication at the bedside right after giving it, and I set a rule never to leave a medication step half done. I also shared the lesson with my team at a huddle.",
+      "result": "The patient did not receive a double dose and suffered no harm. My manager appreciated that I reported it quickly. I have not had a similar documentation gap since, and I still chart at the bedside."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "profession": "Retail Manager",
+  "answers": [
+    {
+      "id": 1,
+      "category": "Loss Prevention and Shrink",
+      "question": "Tell me about a time you reduced inventory shrink in your store.",
+      "situation": "Our quarterly inventory showed shrink well above the target for the store, and most of the gap was in small, high-value items near the front of the sales floor.",
+      "task": "I was asked to bring shrink back in line by the next count without making the store feel unwelcoming to honest customers.",
+      "action": "I started with the data and looked at which categories, days and shifts had the largest variances. I walked the floor and saw that the display was in a blind spot and that receiving paperwork was sometimes signed without a full count. I moved the high-value items closer to the register area, set up a daily check on the top ten items and trained receivers to count every delivery before signing. I held a short team meeting to explain why it mattered and asked associates to greet customers in those aisles. I pulled the numbers weekly and shared progress on a board in the break room.",
+      "result": "By the next count, shrink in those categories fell by roughly a third and the store came in under target. Customer comments stayed positive, and the receiving counts caught two vendor shortages that we were then able to claim."
+    },
+    {
+      "id": 6,
+      "category": "Staffing and Scheduling",
+      "question": "Tell me about a time you ran an understaffed shift.",
+      "situation": "Two associates called out sick on a busy Friday evening, leaving the store with barely enough people to cover the registers, the fitting rooms and the stockroom.",
+      "task": "I had to maintain service and safety with fewer people, and not burn out the team who showed up.",
+      "action": "First, I called the on-call list and two part-timers who had said they were open to extra hours. One agreed to come in. I then decided what mattered most that night: registers open, floor coverage for the busiest departments and safe closing procedures. I postponed the planned restock and a display change to the next morning. I took a spot on the register line during peaks and gave associates short, planned breaks. I told the team plainly what the plan was and thanked them often. I also kept a note of the decisions so I could explain them to my district manager.",
+      "result": "Lines never exceeded a few minutes and we closed on time. Sales that night were close to the same night last year. I scheduled the postponed tasks the next day with extra hours, and several associates mentioned they appreciated my working beside them."
+    },
+    {
+      "id": 11,
+      "category": "Coaching and Performance",
+      "question": "Tell me about a time you managed an underperforming associate.",
+      "situation": "One associate regularly arrived late and showed little interest in customers, and the rest of the team had begun to cover for her.",
+      "task": "I needed to address the issue directly, give her a fair chance to improve and protect team morale.",
+      "action": "I met with her privately and described specific examples instead of general complaints, including dates she was late and moments I saw her avoiding customers. I asked for her side. She shared that her bus schedule had changed and she felt unsure of the product. We agreed on a plan: I adjusted her start time by fifteen minutes, paired her with a strong associate for two weeks of product coaching and set clear goals for punctuality and customer greetings. I documented the conversation and checked in weekly with brief feedback. I praised progress when I saw it and remained clear that continued issues would lead to formal steps.",
+      "result": "Within a month, she was on time every shift and her customer feedback improved. She later became one of our reliable closers. The team noticed that I handled the situation fairly and stopped covering for her."
+    },
+    {
+      "id": 16,
+      "category": "Customer Service",
+      "question": "Tell me about a time you handled an angry customer who demanded to speak with a manager.",
+      "situation": "A customer came to the service desk upset because an item she bought for an event did not work, and she had already been told by an associate that the return window had passed.",
+      "task": "I needed to calm the situation, understand the issue and reach a fair resolution within company policy.",
+      "action": "I invited her to step to the side of the desk, away from the line, and listened without interrupting. I repeated the problem back to her so she knew I understood and apologised for the frustration. I checked the receipt and the product and saw that the item had a defect and the purchase was only a few days past the return window. Policy allowed me to make an exception for defective merchandise, so I offered a replacement or a refund and let her choose. I thanked the associate who first helped her and later coached him on when to bring a manager into a case like this.",
+      "result": "She accepted a refund, thanked me and left calmer. She came back the next month as a regular shopper. The associate learned how to handle similar cases and escalate them earlier."
+    },
+    {
+      "id": 21,
+      "category": "Sales and Operations",
+      "question": "Tell me about a time you hit or exceeded a sales target.",
+      "situation": "At the start of the quarter, my store was assigned a sales target about eight percent higher than the previous year, in a market that looked flat.",
+      "task": "I had to find a realistic path to the target and get the team behind it.",
+      "action": "I analysed last year's sales by department and found that accessories and add-on items had low attachment rates. I set smaller weekly goals for attachment sales and shared them with the team. I trained associates on simple, honest suggestions, such as asking about what the customer already owned. I adjusted the schedule to have more experienced people on the floor at peak hours. I also arranged better displays near the registers and checked that popular items were in stock. Each week, I posted results and recognised progress, and I coached those who were behind individually, focusing on what they could try.",
+      "result": "We finished the quarter two percent above the target, driven by higher attachment rates. Several associates exceeded their individual goals, and the store earned a small team incentive under the company program."
+    }
+  ]
+}

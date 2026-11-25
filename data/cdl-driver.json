@@ -1,0 +1,50 @@
+{
+  "profession": "CDL Driver",
+  "answers": [
+    {
+      "id": 1,
+      "category": "Safety and Inspections",
+      "question": "Tell me about a time your pre-trip inspection uncovered a defect.",
+      "situation": "Early one morning I was doing my pre-trip on a tractor-trailer that was already hooked up, with a delivery window that was already tight. While walking the trailer, I noticed a brake chamber on one of the trailer axles that looked loose and had a small crack around the mounting.",
+      "task": "I had to decide whether the unit was safe to move, report the problem properly and keep dispatch informed about the delay.",
+      "action": "I stopped the inspection and did not move the truck. I took photos, wrote the defect on my inspection report with the exact axle position, and called dispatch to explain that the trailer needed repair before it could leave. I told them plainly that I would not drive it as it was. I offered to help the shop locate the issue and stayed nearby to answer questions. I also asked whether a swap trailer was available so the customer could still be served the same day.",
+      "result": "The shop confirmed the chamber needed replacement. Dispatch arranged a different trailer, and I left about ninety minutes late with a safe unit. The customer was told in advance and accepted the new window. My supervisor noted that the report was clear and complete."
+    },
+    {
+      "id": 6,
+      "category": "Hours of Service and Compliance",
+      "question": "Tell me about a time dispatch pressured you to drive beyond your legal hours.",
+      "situation": "Late in my shift, a dispatcher called to ask if I could cover one more load because a customer was desperate. I had only a small amount of drive time left and the pickup was far away.",
+      "task": "I needed to refuse a request that would put me over my hours-of-service limits, without damaging my relationship with dispatch.",
+      "action": "I told the dispatcher clearly that I could not legally and safely take the load, and I explained exactly how many minutes I had left. I did not just say no. I offered alternatives: I suggested that another driver who had just started their shift might be closer, and I offered to take the load first thing after my required rest period. I went through the electronic log entries with them on the phone so we were both looking at the same numbers. I stayed polite and avoided arguing about the customer's urgency.",
+      "result": "Dispatch found another driver and thanked me for explaining the numbers clearly. I took the next load right after my rest. The dispatcher later began checking my available hours before calling, which saved us both time."
+    },
+    {
+      "id": 11,
+      "category": "Weather and Route Decisions",
+      "question": "Tell me about a time bad weather forced you to change your plans.",
+      "situation": "I was crossing a mountain pass with a load due the next morning when snow began falling harder than the forecast had suggested, and traffic ahead started to slow.",
+      "task": "I had to decide whether to continue, chain up, or stop, while keeping the customer and dispatch informed.",
+      "action": "I checked road conditions on the state travel information service and saw chain requirements were about to take effect. I stopped at a safe turnout before the steepest section, put on chains carefully and measured the tension again after a short roll. Conditions kept worsening, so I decided to wait at a truck stop on the lower side instead of continuing. I called dispatch immediately, explained the closure risk and gave a new estimated arrival. I also messaged the receiver directly so they could shift their dock schedule, and I monitored conditions until the pass was cleared.",
+      "result": "The pass closed for several hours that night. I arrived about six hours late but with no damage and no incident. The receiver thanked me for the heads-up, and dispatch noted that I had decided early and communicated clearly."
+    },
+    {
+      "id": 16,
+      "category": "Customers and Shippers",
+      "question": "Tell me about a time you had a conflict with a shipper or receiver.",
+      "situation": "At a receiving dock, a warehouse supervisor insisted that I unload my own trailer manually, though my paperwork said the receiver would unload. He raised his voice and said I was holding up his line.",
+      "task": "I had to avoid an argument, protect my back from injury and liability, and get the delivery done.",
+      "action": "I stayed calm and lowered my voice. I told him I understood he was busy and that I wanted to get out of his way quickly. I showed him the delivery terms on my paperwork and said I was not able to unload without authorization. I asked if he would like me to call my dispatcher so that both offices could confirm the arrangement. He agreed, and while we waited I stayed out of the aisle and did not complain to his workers. Dispatch spoke to the receiver's office and confirmed the terms.",
+      "result": "The receiver's team unloaded the trailer within the hour. The supervisor apologised for his tone and I thanked him for his patience. My company later reported that the account had no complaint about the visit."
+    },
+    {
+      "id": 21,
+      "category": "Communication with Dispatch",
+      "question": "Tell me about a time you disagreed with a dispatcher's plan.",
+      "situation": "A dispatcher assigned me a route that put me through a downtown area at rush hour, which I knew from experience would cost me a lot of time and be hard for my trailer length.",
+      "task": "I needed to raise my concern respectfully and propose something better without sounding like I was refusing the work.",
+      "action": "I called the dispatcher and said I wanted to deliver the load on time and thought a different path would help. I described the narrow turns and typical traffic at that hour. I suggested an outer loop route that added a few miles but avoided the worst intersections, and I offered to leave thirty minutes earlier. I asked him to confirm that the receiver would accept the revised plan. He checked, and I agreed to follow whichever he decided. I kept my tone friendly and did not argue the point twice.",
+      "result": "He approved the change. I arrived ten minutes early, and he thanked me for the detail. After that, he asked for my input on tricky lanes, and our working relationship became more collaborative."
+    }
+  ]
+}
